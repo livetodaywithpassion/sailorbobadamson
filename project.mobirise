@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-02-15_2235",
-    "currentPage": "index.html",
+    "name": "\bsailor-bob-adamson-nonduality",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -16,7 +16,14 @@
     "siteFonts": [],
     "uniqCompNum": 61,
     "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "сanonical-url": "http://www.sailorbobadamson.com"
   },
   "pages": {
     "index.html": {
@@ -901,7 +908,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
@@ -1133,6 +1140,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "25px",
+              "text-align": "left"
+            },
+            ".lead P": {
               "text-align": "left"
             }
           }
