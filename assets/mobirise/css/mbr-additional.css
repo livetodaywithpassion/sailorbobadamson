@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
 
 
@@ -29,8 +29,8 @@
   font-size: 16px;
 }
 #header1-0 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #header1-0 H1 {
   font-size: 48px;
@@ -47,8 +47,8 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #header4-a .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box5-5 .mbr-section-title {
   font-size: 25px;
@@ -61,8 +61,8 @@
   font-size: 16px;
 }
 #msg-box5-5 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #menu-2 .navbar-toggler {
   color: #2b2b2b;
@@ -87,8 +87,8 @@
   font-size: 16px;
 }
 #slider-4 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #testimonials1-d .mbr-section-title {
   font-size: 25px;
@@ -130,8 +130,8 @@
   color: #000000;
 }
 #msg-box4-r .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 16px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box5-19 .lead P {
   font-family: 'Ubuntu', sans-serif;
@@ -142,12 +142,12 @@
   font-size: 25px;
 }
 #msg-box5-19 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 16px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #form1-9 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #form1-9 .mbr-section-title {
   font-size: 25px;
