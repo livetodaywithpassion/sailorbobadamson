@@ -1,0 +1,1418 @@
+{
+  "settings": {
+    "name": "Site-02-15_2235",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#f1f1f1",
+        "#2b2b2b"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.3",
+    "siteFonts": [],
+    "uniqCompNum": 42,
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "Non Duality Meetings\n\nMeetings are held at Bob’s home in Deepdene (between Camberweel, Balwyn and Kew) every Tuesday and Thursday evening – from 7.15pm till 9pm and every Sunday morning, 9.45 – 11.30am. \n\nAddress: unit 4 at 950 Burke Road, Deepdene VIC 3103. \nIt is last stop on tram 72 or stop No 42 on line 109.\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sailor Bob Adamson<br>",
+          "text": "“I AM not speaking to any body;  I AM not speaking to any mind.  I AM speaking to THAT I AM, that I AM.  To that PRESENCE AWARENESS that expresses through the mind as the thought I AM. <br>Just THIS, NOTHING else.”",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Videos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Books</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#msg-box5-5\" data-toolbar=\"-mbrBtnMove\">Meetings</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            "H1": {
+              "font-size": "48px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Melbourne, Australia",
+          "text": "In 1976 Bob spent 12 months with Nisargadatta Maharaj in Bombay and since then, for many, many years – thousands of seekers are coming from all over the world to his home in Melbourne for small group meetings, individual sessions; as well as calling over the phone and Skype. Some of them would grasp few pointers and get certain relief from suffering, others would keep coming back till all questions got extinguished and ‘questioner’ dissolves into nothing.<br><br><br>Countless have passed beyond the need for further help by fully waking up from the nightmare of belief in being separate individuals!<br>Many of them write books, do their own pointing or just quietly serve ‘themselves in others’ wherever Life places them.<br>The potential to recognize this simplicity of presence awareness is here now, it lays right in front of us, under the veil of ever changing, passing thoughts, which are just another way One Essence appears and expresses itself.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">The Spiel</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Pointers</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-a",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "right",
+              "font-size": "16px"
+            },
+            "H1": {
+              "text-align": "right",
+              "font-size": "25px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2b2b2b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=YvRCF0nBWIw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Nonduality \"Spiel\"",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Sailor Bob - Melbourne, March 12, 2015</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">More Videos</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Living Reality by James Braha",
+                "contentAlign": "right",
+                "text": "In the summer of 2004, Sailor Bob Adamson - one of the greatest teachers of non duality and Eastern musticism - visited the home of James Braha, where talks were held for five weeks. <br>The talks, which were transcibed, make up 250 pages of the book, while the remaining 100 pages is commentary by author",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Paper pack</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kindle</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "What's Wrong With Right Now by Gilbert Schultz",
+                "contentAlign": "left",
+                "text": "This book has turned many seekers around and ended a tedious search for what they had been overlooking, for many decades in some cases. <br>This book is packed with mind stopping pointers, that enable a recognition to take place. Primarily, what can be recognized is that there is nothing to acquire or achieve regarding the search for meaning.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Paper pack</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kindle</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Only That by Kalyani Lawry",
+                "contentAlign": "center",
+                "text": "Through John Wheeler and other influential teachers, and through his two books of dialogues, Sailor Bob Adamson has become a familiar name to those interested in non-dual spirituality. With assistance from friends and family, and from Bob himself, Kalyani Lawry has compiled an absorbing account of his life illustrated with photographs from Bob's personal collection.<br><br>The second part of Only That consists of dialogues which have an immediacy that is “closer than your breathing, nearer than your hands and feet” and a depth that reflects Bob's life experience while pointing clearly to the ultimate reality, “Thou art That”.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.amazon.com/Only-That-Teaching-Sailor-Adamson/dp/0956309178/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Paper pack</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.amazon.com/Only-That-Teaching-Sailor-Adamson-ebook/dp/B01CV428YS\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Kindle</a>",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-4",
+          "_styles": {
+            "H2": {
+              "font-size": "25px",
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": false,
+            "count": "6",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1770x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Pointers and Quotes",
+          "items": [
+            {
+              "authorName": "<div>Sri Nisargadatta Maharaj</div>",
+              "authorBio": "",
+              "text": "<i>“Learn to live without self-concern. For this you must know your own true being as indomitable, fearless and ever-victorious. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires and fears, concepts and ideas, and live by truth alone.”</i>"
+            },
+            {
+              "authorName": "Sri Nisargadatta Maharaj",
+              "authorBio": "User",
+              "text": "<i>\"When I'm Nothing - This is wisdom&nbsp;</i><div><i>When I'm everything - This is Love And between the two - life flows\"</i></div>"
+            },
+            {
+              "authorName": "Sri Nisargadatta Maharaj",
+              "authorBio": "User",
+              "text": "<i>“Just realise you are dreaming a dream you call the world and stop looking for ways out. The dream is not your problem. Your problem is that you like one part of your dream and not another. Love all or none of it and stop complaining. When you have seen the dream as a dream, you have done all that needs to be done.”</i>"
+            },
+            {
+              "authorName": "Sailor Bob Adamson",
+              "authorBio": "Developer",
+              "text": "<i>“Because awareness is self-existing, there is no effort needed or anyone who can make an effort to get it or lose it. The natural state is never lost. It is not an appearance and therefore can never disappear. It is always the same – it is not an entity.  Realise that the conceptual thinker and conceptual thoughts seemingly obscure the non-conceptual natural state. Pause a thought even for an instant and the natural state is fully evident. STOP and SEE. In the seeing, pure awareness gets used to itself.”</i>"
+            },
+            {
+              "authorName": "Sailor Bob Adamson",
+              "authorBio": "Developer",
+              "text": "<i>“You will never ever find the answer in the mind. Mind is to grasp things, it cannot comprehend the no-thing.”</i>"
+            },
+            {
+              "authorName": "Sailor Bob Adamson",
+              "authorBio": "Developer",
+              "text": "<i>“Belief in dualistic thinking is the problem. In non-dual awareness, dualism only appears to be so. How can there ever be any duality in non-duality?”</i>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-d",
+          "testimonial": [
+            {
+              "authorName": "<div>Sri Nisargadatta Maharaj</div>",
+              "authorBio": "",
+              "text": "<i>“Learn to live without self-concern. For this you must know your own true being as indomitable, fearless and ever-victorious. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires and fears, concepts and ideas, and live by truth alone.”</i>"
+            },
+            {
+              "authorName": "Sri Nisargadatta Maharaj",
+              "authorBio": "User",
+              "text": "<i>\"When I'm Nothing - This is wisdom&nbsp;</i><div><i>When I'm everything - This is Love And between the two - life flows\"</i></div>"
+            },
+            {
+              "authorName": "Sri Nisargadatta Maharaj",
+              "authorBio": "User",
+              "text": "<i>“Just realise you are dreaming a dream you call the world and stop looking for ways out. The dream is not your problem. Your problem is that you like one part of your dream and not another. Love all or none of it and stop complaining. When you have seen the dream as a dream, you have done all that needs to be done.”</i>"
+            },
+            {
+              "authorName": "Sailor Bob Adamson",
+              "authorBio": "Developer",
+              "text": "<i>“Because awareness is self-existing, there is no effort needed or anyone who can make an effort to get it or lose it. The natural state is never lost. It is not an appearance and therefore can never disappear. It is always the same – it is not an entity.  Realise that the conceptual thinker and conceptual thoughts seemingly obscure the non-conceptual natural state. Pause a thought even for an instant and the natural state is fully evident. STOP and SEE. In the seeing, pure awareness gets used to itself.”</i>"
+            },
+            {
+              "authorName": "Sailor Bob Adamson",
+              "authorBio": "Developer",
+              "text": "<i>“You will never ever find the answer in the mind. Mind is to grasp things, it cannot comprehend the no-thing.”</i>"
+            },
+            {
+              "authorName": "Sailor Bob Adamson",
+              "authorBio": "Developer",
+              "text": "<i>“Belief in dualistic thinking is the problem. In non-dual awareness, dualism only appears to be so. How can there ever be any duality in non-duality?”</i>"
+            }
+          ],
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "color": "#000000"
+            },
+            ".card-footer > div DIV": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "color": "#000000",
+              "font-size": "14px"
+            },
+            ".card-block I": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "16px"
+            },
+            ".card-block": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "right"
+            },
+            ".card-footer > div": {
+              "color": "#000000",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            ".card-block DIV": {
+              "text-align": "right"
+            },
+            ".mbr-section-title B": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "51",
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6-1024x581.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Non Duality Meetings",
+          "text": "<p>Tuesday evenings:&nbsp;7:20 pm to 9 pm</p><p>Thursday evenings:&nbsp;7.20 pm to 9 pm</p><p>Sunday mornings:10 am to 11.30 am</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-r",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".lead P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "14px",
+              "text-align": "right",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "950 Burke Rd\n950 Burke Rd, Deepdene VIC 3103, Australia",
+              "placeId": "ChIJb4mIh2hB1moRAnRwAVT4feo",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1280x720.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "form": {
+            "action": "nicholas2050@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-9",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Share This Page!",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "16px"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "videos",
+        "order": 6,
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e6e0dc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/vSa4HwKeUvI",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Nonduality \"Spiel\"",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Sailor Bob - Melbourne, March 12, 2015</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-12"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Books",
+        "order": 7,
+        "meta_descr": "Many writers were inspired by Bob’s teachings and presented the message with their own ‘take-up’ on it, others transcribed his talks and made it available world-wide. \n\nThese are just few of them – for which consent was given by copyright owners."
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-h"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Living Reality by James Braha",
+                "contentAlign": "right",
+                "text": "In the summer of 2004, Sailor Bob Adamson - one of the greatest teachers of non duality and Eastern musticism - visited the home of James Braha, where talks were held for five weeks. The talks, which were transcibed, make up 250 pages of the book, while the remaining 100 pages is commentary by author",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Paper pack</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kindle</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "What's Wrong With Right Now by Gilbert Schultz",
+                "contentAlign": "left",
+                "text": "This book has turned many seekers around and ended a tedious search for what they had been overlooking, for many decades in some cases. This book is packed with mind stopping pointers, that enable a recognition to take place. Primarily, what can be recognized is that there is nothing to acquire or achieve regarding the search for meaning.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Paper pack</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kindle</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Only That by Kalyani Lawry",
+                "contentAlign": "center",
+                "text": "Through John Wheeler and other influential teachers, and through his two books of dialogues, Sailor Bob Adamson has become a familiar name to those interested in non-dual spirituality. With assistance from friends and family, and from Bob himself, Kalyani Lawry has compiled an absorbing account of his life illustrated with photographs from Bob's personal collection.<br><br>The second part of Only That consists of dialogues which have an immediacy that is “closer than your breathing, nearer than your hands and feet” and a depth that reflects Bob's life experience while pointing clearly to the ultimate reality, “Thou art That”.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.amazon.com/Only-That-Teaching-Sailor-Adamson/dp/0956309178/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Paper pack</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.amazon.com/Only-That-Teaching-Sailor-Adamson-ebook/dp/B01CV428YS\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Kindle</a>",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "25px",
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "slider-s"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "\bspiel",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-o"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sailor Bob – The Spiel",
+          "text": "30th December 2018<br><br>Only Self<br><br><br><br>(One could say, changing a line in a Beatles song, “See through the words, and you’ll be free”).<br><br> It’s nothing new we talk about here. It is the base of all the great traditions if you look into them closely and see it there. It’s obscured by all the concepts that people put onto them that differentiate them from the totality, what they call in Hinduism non-duality. These days you hear about what is non-duality or what is duality but if it’s non-duality can you separate anything? What label you put on it is not it any way.<br><br>That’s why we say we can’t tell you anything and we can’t teach you anything. All we can do is point to it and ask you to look to where we are pointing to see for yourself. Most/all of us have been conditioned to look in the wrong direction. Before you had the ‘word’ you were functioning naturally and effortlessly and in the learning of the words we have taken on the image that we are something separate. And all the energy of belief has gone into that for the rest of our lives until something has urged us to move on and maybe brought you here.<br><br>So, when I say I am not speaking to any body or any mind I mean not that identity that you consider yourself to be. I am talking to that presence that expresses through the mind as the thought “I am”. Just this, and nothing else, the sense of presence, an awareness of being, an awareness that you are. This is the natural state.<br><br>You can’t say that you are unaware, so you must be aware, and that’s what we miss out on, thinking we have to find this awareness, this concept or a word that we have got to acquire. Or that we have to be aware of my Consciousness. But Consciousness means an existence. And all of you are existing right now. An existence fully aware that it exists. And isn’t that so? You can’t say “I don’t exist”.<br><br>You can’t negate your beingness. You can’t negate your existence. And all our thoughts are expressed through that knowingness, but have they corrupted that knowingness?<br><br>You are just fully consciousness of your existence, of your knowingness.<br><br>When you have investigated you see that that pattern and form that you take to be you is not your actuality. You’re not that body/mind. That’s the personal entity. It isn’t the awareness. Awareness is impersonal. The One Impersonal Self. We label our self to be the personal self and that self has to become liberated or realized. But it’s the wrong self that you are trying to fix. You are the impersonal one; that ego never had an existence in the first place.<br><br>And when you realize that you are that one Self that is patterning and shaping as everything, and the way it is doing that is how it is vibrating or moving in different shapes and patterns. It has never been anything other than its true nature, the one essence without any pattern, shape or form.<br><br>You’ve taken the words to be real. “You’re a good boy Johnny” etc. How many words did you have when you were forming in the womb? When you didn’t have a brain? The brain had to be part of that formation.<br><br>The Sperm and the Ovum, vibrating patterns of energy. Little micro particles of energy that you cannot see with your naked eye but fused with an innate intelligence. Infused with the knowingness, the beingness, with the loving to be. If it was just a blob and not intelligent it couldn’t have done any of that. Formed by the air and the food eaten by your parents that embryo came to be what you are today, but what did you do about it then? That form that you take to be you is not your actuality.<br><br>The Self that you take to be your self is impersonal, is the One Self. There is only the Self, but we take it to be the personal self, me, Bob etc. or whatever name you think you are.<br><br>And the first two years of your life, what do you remember about that before you learnt any words?<br><br>In the beginning was the word and the word was God. They are just saying that God is a word, not some great being out there in the sky greater than anything else. It is only that one essence expressing as everything, not two. Just pointing out that all these words we have for God are just words. All things that were made by him were made by the word. And there was nothing made that wasn’t made without the word.<br><br>See all around you in this room, all the different shapes and patterns, and outside, the trees and the space. They’ve all got labels on them, words. We know everything is THAT, that is a bird, that is a tree. We know everything is THAT but we put labels on them. And you weren’t born with any words. And you didn’t have any words until about two or two and half when that capacity of reasoning developed. And you started to understand what your parents were saying around you. They were speaking words. And with that capacity of reasoning you were able to grasp onto the word and to take the word as the thing. Instead of being the pure presence awareness it translates through the mind as that primary word, “I am”.<br><br>And every word that you have ever spoken or are likely to speak has been learnt, has been acquired.<br><br>As has been pointed out, you were not born with any words.<br><br>Adam and Eve were in paradise and they learnt words. They ate of the tree of knowledge, of good and evil, words. And that’s when they kicked themselves out of paradise, the learning of the words, and that is what we have done.<br><br>Now the words aren’t the enemy. They are part of this functioning now of the thoughts and feelings. They have not corrupted the knowingness. Understand that the appearance is not the actual and that is why the Buddhists tell you that all this manifestation is Maya; it is illusion. It is an illusory manifestation and it is transitory. It means it is constantly changing. It has nothing static about it at all. They point out that there is no static thing in this universe and there is no self-nature to anything. In Buddhism they talk of non-conceptual awareness.<br><br>Show me a word that is the thing. We have taken the word to be real and we have never questioned it. We have taken on this idea of the person. And realize that the person is a word. It came from the word persona or mask. So, we have this conceptual image, this mask. I’m Bob, the Australian the good fella, they don’t like me. All these concepts are added onto this “I” thought which is a vibration. And we try and give it some reality. A vibration. Realize that this conceptual image is a dead image. Because what you have added onto it, the names, the form, the ideas, your history, you’ve had a bad childhood and you are depressed, are based on past events and experiences. What’s wrong with right now if you don’t think about it? What image can you say you’ve got? It’s fresh and new right now. It’s just as it is isn’t it?<br><br>And ‘what is’ means unaltered, unmodified and uncorrected. No preferences, no partiality, no comparison. What are you going to do? Take on words and label the words.<br><br>Bob now continues to demonstrate once again that our life-long seeing and hearing and thinking that has happened naturally all this time has now been loaded with a conceptual self that is now believed to be doing all this, and this helps make very clear why there are in fact no Subjects or Objects.<br><br> <br><br>The ‘Seer’ now becomes the Subject and what is seen becomes the Object. But can there be a Seer without the seeing? So, Object and Subject are just concepts. The actual functioning is the seeing; same with the hearing, tasting and thinking. Can there be a Thinker without thinking? This conceptual Thinker that thinks it does everything, don’t you wonder why it never works anything out with all these mantras, books and meditations? The Truth has been pointed out through the ages, but we never get it because we try and work it out with the mind. Is there such a thing as mind? Or body?<br><br>And all our suffering comes about by referring everything to this conceptual (non-existent) self. But Reality is always One, never two. A total omnipresent power. And you are that totality in this moment and have always been that same power that is moving the sun and moon and the tides. Isn’t there a great sense of relief in recognising that? It has the power to manifest everything in all of its diversity. If it didn’t do it there would be nothing. It has this innate intelligence, this cognising emptiness, and it is not us that has this cognising emptiness. It’s the emptiness that is doing it, the cognising. Even when we are sad, we know that it is the totality.<br><br>Our thoughts are just images without any substance whatsoever. A thought can’t do anything at all. The innate intelligence is expressing through you now and subtly telling you, “I am That”. I am that essence; I am not this body. Emptiness is form, said the Buddha. The form can be nothing other than the emptiness. All the disasters, Tsunamis and things have never corrupted the nature that you are.<br><br>Let the reflections on this screen come and go. Allow it to happen. Don’t resist or try to alter or modify it. It changes by itself and always has throughout your life. Look at all those past disasters from your life. Don’t go back there. Left as they are, they will move along.<br><br>The only thing you can ever be free from is the belief that you are something other than That.<br><br>You can only ever be the Absolute because that is all there is. They call it The Great Perfection in Buddhism. Can you add to the perfect? Can you take anything away from it?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Full Stop</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-v",
+          "_styles": {
+            "H1": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-y"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Questions for contemplation &nbsp;",
+          "text": "Did you come to learn or get something here? Something new? Something you don’t have or are not yet? It can be very subtle!<br><br>If it is sat-chit-ananda as Hinduism calls it – existence (being), consciousness (knowing), bliss (loving to be or stillness) then:<br><br>Can you deny your being? (Try not to be!);<br><br>Are you unaware (unconscious)?;<br><br>Would you rather be dead?<br><br>Doesn’t it mean that YOU ARE THAT (sat-chit-ananda) already?<br><br>If is true what they say in the great mantra (Mahavakya) – I Am That – wouldn’t it be essential to look what the word ‘THAT’ represents?<br><br>What is THAT in our language?<br><br>What is not THAT?<br><br>What is the word after all?<br><br>What is the word “I” or “ME”?<br><br>Where you born with any words?<br><br>How were they acquired?<br><br>If Buddhism points to it as ‘non-conceptual, ever fresh presence awareness and nothing else (just this) – are you not aware of this presence right now?<br><br>What else do you expect if they say ‘just this, nothing else’?<br><br>In Christianity we have Omnipresence, Omnipotence, Omniscience, what does it mean?<br><br>Isn’t ‘Omnipotence’ the TOTAL power? Is there any room for Higher Power, power of thought or entity doing something?<br><br>Is it any other power running the universe or your body?<br><br>Are you doing (do you have power to do) digestion or replacing cells in the body?<br><br>Are you doing seeing or thinking (how?)?<br><br>Isn’t ‘Omnipresence’ the TOTAL presence? Can ‘you’ be separated or excluded?<br><br>Isn’t ‘Omniscience’ the TOTAL knowing?<br><br>Is belief ever the actual? (example: Thought of lust is a sin, Earth is flat, Santa Claus is real…) Is that true when investigated?<br><br>When we seek to become whole and complete – we want liberation – who is that for? Who is the “we”? Is there a personal self?<br><br>Is the Person ever a reality? Where did that word ‘Person’ come from? Doesn’t it mean THE MASK in Latin? The Mask of a conceptual image?<br><br>Isn’t the conceptual image based in believed past? Isn’t it dead? Where is the freshness and newness in it?<br><br>Relating to the false image, what are you going to liberate yourself from?<br><br>What realisation and for who?<br><br>Do you still believe you can find the answer in the mind?<br><br>Do you think you can get peace of mind?<br><br>What is the nature of mind? How does it vibrate into interrelated opposites? Can it work in any other way?<br><br>What is there when vibration ceases for a moment or is not attended to?<br><br>If there was an answer in thought, how long would that be valid for? And why hasn’t anybody found it there yet?<br><br>Is the word – the actual? Can the word water – make you wet; or word fire – burn?<br><br>Is it any different with the rest of the words in the manifestation? Are they the real things?<br><br>Isn’t it dream-like illusion sustained by the energy of belief (attention)?<br><br>Is there anything permanent or static in the manifestation? Anything solid?<br><br>Do you have the same body you were born with?<br><br>Where is that original cell, sperm and ovum dividing into a foetus – right now?<br><br>Did it start then or much earlier, when your parents where eating food and breathing prana which enabled these cells to form?<br><br>What is the body anyway? What is it made of?<br><br>Is any of the elements (air, matter (earth), fire (temperature), water, space separate from the totality?<br><br>Can you separate yourself from (remove) water (body is mostly water!), air, heat or space?<br><br>Can you function if you stop replenishing them from the environment?<br><br>Isn’t the body just a vibrating pattern of energy? When you break it to elements or further to subatomic particles or waves or energy – isn’t it as they say the no-thing? Isn’t it the same with every form in this manifestation made of phenomena?<br><br>What is phenomena, how does the dictionary explains it? Isn’t it that, which appears to be?<br><br>So are you this body?<br><br>Don’t you call it my body just like my coat or my car?<br><br>Could the body be a kind of coat or car?<br><br>Doesn’t language suggest it when you say you are an owner of the body or coat or car?<br><br>Who is that owner?<br><br>Are you this mind?<br><br>Don’t you say my mind just the same way?<br><br>Can you show me your mind?<br><br>Is it anything else other than thought?<br><br>What is thought? Isn’t it a subtle sound or vibration of energy?<br><br>How did it all start after the baby was born?<br><br>What can you remember without words, before reasoning and storing memory was possible?<br><br>How did you learn you are a person, who told you and what did they say you were?<br><br>What did you add to it, what are you relating to as “me” right now?<br><br>Isn’t it all relating to the past events? How else would you know what you like or dislike?<br><br>Isn’t this reference point a dualism?<br><br>Can there be a duality in non-duality?<br><br>If ego is a problem, can you get rid of it? Who would be trying to remove it if not ego itself?<br><br>Is there such a thing as an ego?<br><br>In relating to past image of what is good or bad; and wanting to keep the good and push away the bad – aren’t we in conflict with what is right now? Isn’t it RESISTANCE?<br><br>Doesn’t conflict make you anxious, depressed, uneasy?<br><br>Isn’t un-easiness a dis-ease?<br><br>Isn’t all the psychological suffering a conflict or dis-ease?<br><br>What if you don’t relate it to a reference point (me)? Where does it go?<br><br>How about Nature? Does it relate anything to anything? Doesn’t it also vibrate in opposites, day/night, summer/winter – without any conflict? Does silence fight the sound?<br><br>25 Are you anything other than Nature?<br><br><br><br>How to do the investigation? Look: Are you seeing right now?<br><br>Did you decide to start it in the morning? Or was it there, already available as the rest of functioning?<br><br>Isn’t it the same seeing with you right now? Content is different, but has the seeing capacity change?<br><br>Isn’t it the same with hearing?<br><br>Does my eye tell me “I see”? Does it say “Look at this, look at that”?<br><br>Isn’t the thought “I see” merely a translation of the mind creating a subject-object split in plain singular seeing?<br><br>Can that thought “I see” actually see? Close your eyes and check!<br><br>If eye is only an instrument and thought only translation – WHAT IS SEEING?<br><br>Same way – does the thought “I hear” – actually hear?<br><br>Is the thought “I’m aware” – your awareness? I choose – the choice maker?<br><br>Can you choose thoughts? Would you ever have unhappy thoughts if you could choose them?<br><br>How many thoughts can a CORPSE have? How much can it see or hear?<br><br>How much information can you get out of the computer if the power is not ON?<br><br>How long are you searching? Could it be that you are seeking in the wrong place?<br><br>Do you think you can find it in future? Become something? Is becoming – being? If it is to be found in time, can you trust it? If it has a beginning, wouldn’t it be just passing phenomena, experience? Is that what you want? Pleasure? Bliss?<br><br>Isn’t TIME the mind? Is there a past or future or time if you don’t think about it?<br><br>Who are you if you don’t think about it? Who are you without your past? Would the conceptual answer ever satisfy you? For how long?<br><br>What is wrong with right now if you don’t think about it?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Full Stop</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-w",
+          "_styles": {
+            "H1": {
+              "font-size": "36px",
+              "color": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "pointers",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-p"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mobirise",
+          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-z"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "contact",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-q"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Thou Art That",
+        "order": 2,
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "active": true,
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-11"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "\bbobgroupmetting",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page2.html\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#form1-9\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"index.html#msg-box5-5\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-13"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Video Embed",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-15"
+        }
+      ]
+    }
+  }
+}
