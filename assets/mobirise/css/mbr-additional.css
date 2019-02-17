@@ -20,6 +20,8 @@
 
 
 
+
+
 #header1-0 P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
@@ -124,6 +126,18 @@
   text-align: right;
   color: #000000;
 }
+#msg-box5-19 .lead P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+#msg-box5-19 .mbr-section-title {
+  font-size: 25px;
+}
+#msg-box5-19 .btn {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 16px;
+}
 #form1-9 .btn {
   font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
@@ -137,6 +151,13 @@
 
 
 
+#msg-box5-1c .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box5-1c .lead P {
+  color: #ffffff;
+  font-size: 20px;
+}
 #menu-g .navbar-toggler {
   color: #2b2b2b;
 }
@@ -214,6 +235,15 @@
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
 }
+#header2-z H1 {
+  font-size: 46px;
+}
+#header2-1a H1 {
+  font-size: 46px;
+}
+#header2-1b H1 {
+  font-size: 46px;
+}
 
 
 #menu-q .navbar-toggler {
@@ -226,6 +256,15 @@
 #menu-q .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
+}
+#msg-box3-16 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-16 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#form1-17 .mbr-section-title {
+  font-size: 25px;
 }
 
 
