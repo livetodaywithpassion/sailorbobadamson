@@ -202,8 +202,6 @@
 }
 
 
-
-
 #menu-h .navbar-toggler {
   color: #2b2b2b;
 }
@@ -214,18 +212,6 @@
 #menu-h .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
-}
-#slider-s H2 {
-  font-size: 25px;
-  color: #000000;
-}
-#slider-s P {
-  font-family: 'Open Sans', sans-serif;
-  color: #000000;
-  text-align: left;
-}
-#slider-s .btn {
-  font-family: 'Playfair Display', sans-serif;
 }
 
 
@@ -242,10 +228,6 @@
 }
 #header2-v H1 {
   font-size: 36px;
-}
-#header2-w H1 {
-  font-size: 36px;
-  color: #000000;
 }
 
 
@@ -267,6 +249,18 @@
   font-size: 36px;
 }
 #header2-1b H1 {
+  font-size: 36px;
+}
+#header2-1l H1 {
+  font-size: 36px;
+}
+#header2-1m H1 {
+  font-size: 36px;
+}
+#header2-1n H1 {
+  font-size: 36px;
+}
+#header2-1o H1 {
   font-size: 36px;
 }
 
