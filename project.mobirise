@@ -760,7 +760,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Contact Form",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
             "action": "adamson7@iinet.net.au",
             "alerts": {
@@ -1889,7 +1889,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Contact Form",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
             "action": "adamson7@iinet.net.au",
             "alerts": {
@@ -1926,6 +1926,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           }
         },
