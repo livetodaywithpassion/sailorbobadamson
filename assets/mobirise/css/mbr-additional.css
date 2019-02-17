@@ -22,6 +22,7 @@
 
 
 
+
 #header1-0 P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
@@ -119,12 +120,17 @@
 #msg-box4-r .mbr-section-title {
   font-size: 25px;
   font-family: 'Playfair Display', sans-serif;
+  text-align: left;
 }
 #msg-box4-r .lead P {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-  text-align: right;
+  font-size: 15px;
+  text-align: left;
   color: #000000;
+}
+#msg-box4-r .btn {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 16px;
 }
 #msg-box5-19 .lead P {
   font-family: 'Ubuntu', sans-serif;

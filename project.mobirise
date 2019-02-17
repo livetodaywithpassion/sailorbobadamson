@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 49,
+    "uniqCompNum": 51,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png"
   },
@@ -471,7 +471,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": "51",
             "paddingTop": "1",
@@ -517,21 +517,27 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.meetup.com/Melbourne-Awareness-Meetup/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Meetup</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-r",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "25px",
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "text-align": "left"
             },
             ".lead P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "14px",
-              "text-align": "right",
+              "font-size": "15px",
+              "text-align": "left",
               "color": "#000000"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
             }
           }
         },
