@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "\bsailor-bob-adamson-nonduality",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
@@ -759,7 +759,7 @@
           "form": {
             "action": "adamson7@iinet.net.au",
             "alerts": {
-              "success": "Thank you <3"
+              "success": "Thank you!"
             },
             "fields": {
               "name": {
@@ -1886,9 +1886,9 @@
           "title": "Contact Form",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
           "form": {
-            "action": "nicholas2050@gmail.com",
+            "action": "adamson7@iinet.net.au",
             "alerts": {
-              "success": "Thank you <3"
+              "success": "Thank you!"
             },
             "fields": {
               "name": {
