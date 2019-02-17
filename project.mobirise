@@ -201,7 +201,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
@@ -344,7 +344,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "header": "Pointers and Quotes:",
+          "header": "Quotes:",
           "items": [
             {
               "authorName": "<div>Sri Nisargadatta Maharaj</div>",
@@ -784,7 +784,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
@@ -911,7 +911,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
@@ -1048,7 +1048,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
@@ -1211,7 +1211,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
@@ -1295,7 +1295,7 @@
           "_anchor": "header2-z",
           "_styles": {
             "H1": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           }
         },
@@ -1331,7 +1331,7 @@
           "_anchor": "header2-1a",
           "_styles": {
             "H1": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           }
         },
@@ -1367,7 +1367,7 @@
           "_anchor": "header2-1b",
           "_styles": {
             "H1": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           }
         }
@@ -1384,7 +1384,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
@@ -1561,7 +1561,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
@@ -1626,7 +1626,7 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
