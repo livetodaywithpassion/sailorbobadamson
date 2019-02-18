@@ -317,3 +317,19 @@
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
 }
+
+
+#menu-1p .navbar-toggler {
+  color: #2b2b2b;
+}
+#menu-1p .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 16px;
+}
+#menu-1p .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 16px;
+}
+#header2-1q H1 {
+  font-size: 25px;
+}

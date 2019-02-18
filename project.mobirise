@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "\bsailor-bob-adamson-nonduality",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 61,
+    "uniqCompNum": 63,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -715,7 +715,7 @@
     "page1.html": {
       "settings": {
         "title": "videos",
-        "order": 6,
+        "order": 7,
         "meta_descr": ""
       },
       "components": [
@@ -1032,7 +1032,7 @@
     "page2.html": {
       "settings": {
         "title": "Books",
-        "order": 7,
+        "order": 8,
         "meta_descr": "Many writers were inspired by Bob’s teachings and presented the message with their own ‘take-up’ on it, others transcribed his talks and made it available world-wide. \n\nThese are just few of them – for which consent was given by copyright owners."
       },
       "components": [
@@ -1098,7 +1098,7 @@
     "page3.html": {
       "settings": {
         "title": "\bspiel",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1224,7 +1224,7 @@
     "page4.html": {
       "settings": {
         "title": "pointers",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1541,7 +1541,7 @@
     "page5.html": {
       "settings": {
         "title": "contact",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1632,7 +1632,7 @@
           },
           "title": "Modern Styles",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mentoring ONE on ONE with Sailor Bob at his home, over the phone or Skype can be arranged.&nbsp;</p><p>Usual donation is $60.</p>",
+          "text": "<p>In 1976 Bob spent 12 months with Nisargadatta Maharaj in Bombay and since then, for many, many years – thousands of seekers are coming from all over the world to his home in Melbourne, Australia – for small group meetings or individual sessions. Bob is also relentlessly answering phone (or – more recently – Skype) calls for over 40 years.</p><p><br></p><p>Some of the seekers would grasp few pointers and get certain relief from suffering, others would keep coming back till all questions got extinguished and ‘questioner’ dissolves into nothing.</p><p><br></p><p>Countless have passed beyond the need for further help by fully waking up from the nightmare of belief in being separate individuals!</p><p>Many of them write books, do their own pointing or just quietly serve ‘themselves in others’ wherever Life places them.</p><p>The potential to recognize this simplicity of presence awareness is here now, it lays right in front of us, under the veil of ever changing, passing thoughts… Which are just another way the One Essence appears and expresses itself.</p><p><b>Non Duality Meetings</b></p><p>Meetings are held at Bob’s home in Deepdene (between Camberweel, Balwyn and Kew) every Tuesday and Thursday evening – from 7.15pm till 9pm and every Sunday morning, 9.45 – 11.30am.&nbsp;</p><p><br></p><p>Address: unit 4 at 950 Burke Road, Deepdene VIC 3103.&nbsp;</p><p>It is last stop on tram 72 or stop No 42 on line 109.</p><p>Mentoring ONE on ONE with Sailor Bob at his home, over the phone or Skype can be arranged.&nbsp;</p><p>Usual donation is $60.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1720,7 +1720,7 @@
     "page6.html": {
       "settings": {
         "title": "Thou Art That",
-        "order": 2,
+        "order": 3,
         "meta_descr": ""
       },
       "components": [
@@ -1786,7 +1786,7 @@
     "page7.html": {
       "settings": {
         "title": "\bbobgroupmetting",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1896,6 +1896,106 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-15"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "about",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#2b2b2b"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-0\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Videos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#slider-4\">Books</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-r\">Meetings</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page3.html\">The Spiel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page4.html\">Pointers</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page5.html#msg-box3-16\">One on One</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/13507194-989366384466610-2302703478963180903-n-1-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-0",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "index.html#header1-0",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-danger\" data-app-btn=\"true\" href=\"page3.html#header2-v\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">What's Wrong with. Right Now?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#2b2b2b"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "menu-1p"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sailor Bob Adamson",
+          "text": "In 1976 Bob spent 12 months with Nisargadatta Maharaj in Bombay and since then, for many, many years – thousands of seekers are coming from all over the world to his home in Melbourne, Australia – for small group meetings or individual sessions. Bob is also relentlessly answering phone (or – more recently – Skype) calls for over 40 years.<br><br>Some of the seekers would grasp few pointers and get certain relief from suffering, others would keep coming back till all questions got extinguished and ‘questioner’ dissolves into nothing.<br><br>Countless have passed beyond the need for further help by fully waking up from the nightmare of belief in being separate individuals!<br>Many of them write books, do their own pointing or just quietly serve ‘themselves in others’ wherever Life places them.<br>The potential to recognize this simplicity of presence awareness is here now, it lays right in front of us, under the veil of ever changing, passing thoughts… Which are just another way the One Essence appears and expresses itself.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1q",
+          "_styles": {
+            "H1": {
+              "font-size": "25px"
+            }
+          }
         }
       ]
     }
